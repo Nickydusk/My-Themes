@@ -199,30 +199,7 @@
   word-break: break-all;
 }
 
-
-/* --- 图片 --- */
-/* .md-image {
-  margin: 24px auto;
-  border-radius: 4px;
-}
-
-.md-image img {
-  border: none;
-  border-radius: 4px;
-}
-.md-image img[alt|='shadow'] {
-  box-shadow: 0 4px 24px -6px #dddddd;
-}
-
-.md-image > .md-meta {
-  padding: 2px 0 0 4px;
-  font-family: Consolas, 'Liberation Mono', Courier, monospace;
-  font-size: 0.9em;
-  color: inherit;
-  border-radius: 3px;
-} */
-
-/* 章插图 */
+/* 文章插图 */
 #write img {
   display: block;
   margin: 0 auto;
