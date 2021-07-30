@@ -1,6 +1,6 @@
 # My-Themes
 
-Customized theme config files of my useful tools
+Customized theme config files of my most useful tools.
 
 ## Typora-Themes
 
